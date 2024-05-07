@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:khaya_practice/home.dart';
-import 'package:khaya_practice/sign_in.dart';
+import 'package:khaya_practice/login.dart';
+
 
 void main(){
   runApp( const MaterialApp(
